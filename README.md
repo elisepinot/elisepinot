@@ -29,7 +29,7 @@ Here is the project's list:
 - Build a Landing Page Using Javascript --> Repo [oc-game-on](https://github.com/elisepinot/oc-game-on) / [GitHub Pages](https://elisepinot.github.io/oc-game-on/)
 - Create an Accessible Website For a Freelancer Sourcing Platform --> Repo [oc-fisheye](https://github.com/elisepinot/oc-fisheye) / [GitHub Pages](https://elisepinot.github.io/oc-fisheye/)
 - Develop a Search Tool --> Repo [oc-les-petits-plats](https://github.com/elisepinot/oc-les-petits-plats) / [GitHub Pages](https://elisepinot.github.io/oc-les-petits-plats/)
-- Develop a Web App with React and React Router --> Repo[oc-kasa](https://github.com/elisepinot/oc-kasa) / [GitHub Pages](https://elisepinot.github.io/oc-kasa/)
+- Develop a Web App with React and React Router --> Repo [oc-kasa](https://github.com/elisepinot/oc-kasa) / [GitHub Pages](https://elisepinot.github.io/oc-kasa/)
 - Define User Needs for a Tutoring App _(upcoming)_
 - Develop a Dashboard for Analytics with React _(upcoming)_
 - Connect to a Back End with an API Using React _(upcoming)_
