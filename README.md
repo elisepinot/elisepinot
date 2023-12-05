@@ -36,7 +36,7 @@ Here is the project's list:
 - Convert a jQuery Library to React
 - Debug and Test an HR SaaS
 
-You can find out more [here]([url](https://static.oc-static.com/syllabus/878-javascript-react-developer-en-en-standard.pdf)).
+You can find out more [here](https://static.oc-static.com/syllabus/878-javascript-react-developer-en-en-standard.pdf).
 
 ### 🎯 Career Aspirations
 
