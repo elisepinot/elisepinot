@@ -51,7 +51,7 @@ I look forward to not only adapting my skill set but also actively shaping and i
 ### 🚀 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/elisepinot/)
-- 📧 Email: elise.pinot@live.fr
+- 📧 elise.pinot@live.fr
 
 <!--
 **elisepinot/elisepinot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
