@@ -24,7 +24,7 @@ I receive a detailed brief with the context, customer requirements and additiona
 Then it’s up to me to go and make it real!
 
 Here is the project's list:
-- Turn Mock-ups Into a Web Page with HTML & CSS
+- Turn Mock-ups Into a Web Page with HTML & CSS --> Repo [OC-Booki](https://github.com/elisepinot/OC-Booki) / [GitHub Pages](https://elisepinot.github.io/OC-Booki/)
 - Integrate a mobile website with animations in CSS
 - Build a Landing Page Using Javascript
 - Create an Accessible Website For a Freelancer Sourcing Platform
