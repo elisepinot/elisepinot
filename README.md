@@ -24,12 +24,12 @@ I receive a detailed brief with the context, customer requirements and additiona
 Then it’s up to me to go and make it real!
 
 Here is the project's list:
-- Turn Mock-ups Into a Web Page with HTML & CSS --> Repo [OC-Booki](https://github.com/elisepinot/OC-Booki) / [GitHub Pages](https://elisepinot.github.io/OC-Booki/)
-- Integrate a mobile website with animations in CSS --> Repo [OC-ohmyfood](https://github.com/elisepinot/OC-ohmyfood) / [GitHub Pages](https://elisepinot.github.io/OC-ohmyfood/)
-- Build a Landing Page Using Javascript --> Repo [OC-game-on](https://github.com/elisepinot/OC-game-on) / [GitHub Pages](https://elisepinot.github.io/OC-game-on/)
-- Create an Accessible Website For a Freelancer Sourcing Platform --> Repo [OC-fisheye](https://github.com/elisepinot/OC-fisheye) / [GitHub Pages](https://elisepinot.github.io/OC-fisheye/)
-- Develop a Search Tool --> Repo [OC-les-petits-plats](https://github.com/elisepinot/OC-les-petits-plats) / [GitHub Pages](https://elisepinot.github.io/OC-les-petits-plats/)
-- Develop a Web App with React and React Router --> Repo[ OC-kasa](https://github.com/elisepinot/OC-kasa) / GitHub Pages
+- Turn Mock-ups Into a Web Page with HTML & CSS --> Repo [oc-booki](https://github.com/elisepinot/oc-booki) / [GitHub Pages](https://elisepinot.github.io/oc-booki/)
+- Integrate a mobile website with animations in CSS --> Repo [oc-ohmyfood](https://github.com/elisepinot/oc-ohmyfood) / [GitHub Pages](https://elisepinot.github.io/oc-ohmyfood/)
+- Build a Landing Page Using Javascript --> Repo [oc-game-on](https://github.com/elisepinot/oc-game-on) / [GitHub Pages](https://elisepinot.github.io/oc-game-on/)
+- Create an Accessible Website For a Freelancer Sourcing Platform --> Repo [oc-fisheye](https://github.com/elisepinot/oc-fisheye) / [GitHub Pages](https://elisepinot.github.io/oc-fisheye/)
+- Develop a Search Tool --> Repo [oc-les-petits-plats](https://github.com/elisepinot/oc-les-petits-plats) / [GitHub Pages](https://elisepinot.github.io/oc-les-petits-plats/)
+- Develop a Web App with React and React Router --> Repo[oc-kasa](https://github.com/elisepinot/oc-kasa) / [GitHub Pages](https://elisepinot.github.io/oc-kasa/)
 - Define User Needs for a Tutoring App _(upcoming)_
 - Develop a Dashboard for Analytics with React _(upcoming)_
 - Connect to a Back End with an API Using React _(upcoming)_
