@@ -16,7 +16,7 @@ Enthusiastically enrolled in the JavaScript React Developer program at OpenClass
 
 ### 👩🏻‍💻 My projects
 
-At OpenClassrooms, learning is project-driven which is really great it is the fastest way to become proficient!
+At OpenClassrooms, learning is project-driven which is really great as  I think it is the fastest way to become proficient!
 Projects offer hands-on experience so I can hit the ground running when I start working as a web developer.
 
 The JavaScript React Developer path has a series of projects that I need to complete one at a time with the support of my mentor (30 minutes each week). 
