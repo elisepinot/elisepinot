@@ -12,7 +12,7 @@ Enthusiastically enrolled in the JavaScript React Developer program at OpenClass
 - 📚 Contribute to a code project using agile methodology...
 - 🚀... And much more!
 
-👩🏻‍🎓 At the end of this training (April 2024), I will be delivered the JavaScript React Developer OpenClassrooms certification... and I'll be ready to join a new company! 😃
+👩🏻‍🎓 I completed the JavaScript React Developer training with OpenClassrooms from February 2023 to May 2024, and I hold a Software Developer (RNCP Level 6) diploma. Now, I’m ready for a new professional challenge where I can apply the technical skills I’ve acquired. 😃
 
 ### 👩🏻‍💻 My projects
 
@@ -30,16 +30,58 @@ Here is the project's list:
 - Create an Accessible Website For a Freelancer Sourcing Platform --> Repo [oc-fisheye](https://github.com/elisepinot/oc-fisheye) / [GitHub Pages](https://elisepinot.github.io/oc-fisheye/)
 - Develop a Search Tool --> Repo [oc-les-petits-plats](https://github.com/elisepinot/oc-les-petits-plats) / [GitHub Pages](https://elisepinot.github.io/oc-les-petits-plats/)
 - Develop a Web App with React and React Router --> Repo [oc-kasa](https://github.com/elisepinot/oc-kasa) / [GitHub Pages](https://elisepinot.github.io/oc-kasa/)
-- Define User Needs for a Tutoring App _(upcoming)_
-- Develop a Dashboard for Analytics with React _(upcoming)_
-- Connect to a Back End with an API Using React _(upcoming)_
-- Convert a jQuery Library to React _(upcoming)_
-- Debug and Test an HR SaaS _(upcoming)_
+- Define User Needs for a Tutoring App --> Repo [oc-dev4you-learn-home](https://github.com/elisepinot/oc-dev4you-learn-home)
+- Develop a Dashboard for Analytics with React --> Repo [oc-sportsee-frontend](https://github.com/elisepinot/oc-sportsee-frontend)
+- Connect to a Back End with an API Using React --> Repo [oc-argent-bank](https://github.com/elisepinot/oc-argent-bank)
+- Convert a jQuery Library to React --> Repo [oc-hr-net](https://github.com/elisepinot/oc-hr-net)
+- Debug and Test an HR SaaS --> Repo [oc-billed-app](https://github.com/elisepinot/oc-billed-app)
 
 You can find out more [here](https://static.oc-static.com/syllabus/878-javascript-react-developer-en-en-standard.pdf).
 
 ### ⚡ Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### ⚡ Languages and Tools
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-router/react-router-original.svg" alt="react-router" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="rest-api" width="40" height="40"/>
+  </a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ### 🎯 Career Aspirations
