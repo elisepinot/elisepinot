@@ -90,12 +90,12 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
 
 ### 🎯 Career Aspirations
 
-I am thrilled to embark on a new chapter, blending my extensive background in sales, particularly within the dynamic landscape of SaaS, with my newfound passion for web development. Having spent 3.5 years in the tech industry as a Customer Success Manager, I bring a unique blend of soft skills cultivated in client-facing roles.
+I am thrilled to embark on a new chapter, blending my extensive background in sales, particularly within the dynamic landscape of SaaS, with my new technical skills. 
+Having spent 3.5 years in the tech industry as a Customer Success Manager, I bring a unique blend of soft skills cultivated in client-facing roles.
 
-In my previous professional experiences, I honed skills such as effective communication, problem-solving, and a customer-centric approach. Now, as I transition to the development side, I am excited to merge these soft skills with the technical prowess gained through my current program at OpenClassrooms.
+In my previous professional experiences, I honed skills such as effective communication, problem-solving, and a customer-centric approach. Now, I am eager to merge these soft skills with the technical expertise gained through my program at OpenClassrooms.
 
-I am eager to contribute to a forward-thinking team that values both my prior experience and my fresh perspective as I step into the world of creating with code. 
-
+I am enthusiastic about contributing to a forward-thinking team that values both my prior experience and my new technical skills. 
 I look forward to not only adapting my skill set but also actively shaping and innovating in this dynamic field.
 
 ### 🚀 Let's Connect!
