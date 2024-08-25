@@ -39,7 +39,9 @@ Here is the project's list:
 You can find out more [here](https://static.oc-static.com/syllabus/878-javascript-react-developer-en-en-standard.pdf).
 
 ### ⚡ Languages and Tools
+
 ### ⚡ Languages and Tools
+
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -57,7 +59,7 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-router/react-router-original.svg" alt="react-router" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios/50/000000/react-router.png" alt="react-router" width="40" height="40"/>
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -66,7 +68,7 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="rest-api" width="40" height="40"/>
+    <img src="https://img.icons8.com/external-outline-wichaiwi/64/000000/external-rest-api-networking-outline-wichaiwi.png" alt="rest-api" width="40" height="40"/>
   </a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
@@ -81,7 +83,6 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
 
 
 ### 🎯 Career Aspirations
