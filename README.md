@@ -54,7 +54,7 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   </a>
-  <span style="margin-left: 10px;">React Router</span>
+  <span style="margin-left: 10px; color: white;">React Router</span>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
   </a>
@@ -65,7 +65,7 @@ You can find out more [here](https://static.oc-static.com/syllabus/878-javascrip
 
 #### APIs and Testing
 <p align="left">
-  <span style="margin-right: 10px;">REST APIs</span>
+  <span style="margin-right: 10px; color: white;">REST APIs</span>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="30" height="30"/>
   </a>
